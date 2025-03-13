@@ -2,7 +2,7 @@
 
 🚀 Passionate about **web development** and **software testing**.  
 💡 Exploring **React, Node.js, Cypress, Vitest**.  
-🔧 Skilled in **C++, C#, Python, Java, JavaScript**.  
+🔧 Skilled in **C++, C#, Python, Java, JavaScript, TypeScript**.  
 
 
 ## 📫 Connect with Me  
