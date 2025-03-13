@@ -6,7 +6,8 @@
 
 
 ## 📫 Connect with Me  
-💼 [Facebook](https://www.facebook.com/profile.php?id=100006508411076) | 🐦 [Instragram](https://www.instagram.com/tor__apichart/))  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006508411076)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tor__apichart/)  
 
 
 
