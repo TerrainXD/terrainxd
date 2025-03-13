@@ -1,8 +1,8 @@
 # 👋 Hi, I'm TerrainXD  
 
-🚀 Passionate about **game development** and **procedural terrain generation**.  
+🚀 Passionate about **game development** and **Testing**.  
 💡 Exploring **Unity**, **Unreal Engine**, and **Godot**.  
-🔧 Skilled in **C++, C#, Python**.  
+🔧 Skilled in **C++, C#, Python, Java, Javascript**.  
 
 
 ## 📫 Connect with Me  
@@ -19,4 +19,6 @@
 ![Unity](https://img.shields.io/badge/Engine-Unity-000?logo=unity&logoColor=white)
 ![C++](https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Language-Java-007396?logo=java&logoColor=white)  
 
