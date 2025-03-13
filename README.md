@@ -1,8 +1,8 @@
-# 👋 Hi, I'm TerrainXD  
+# 👋 Hi, I'm Tor
 
-🚀 Passionate about **game development** and **Testing**.  
-💡 Exploring **Unity**, **Unreal Engine**, and **Godot**.  
-🔧 Skilled in **C++, C#, Python, Java, Javascript**.  
+🚀 Passionate about **web development** and **software testing**.  
+💡 Exploring **React, Node.js, Cypress, Vitest**.  
+🔧 Skilled in **C++, C#, Python, Java, JavaScript**.  
 
 
 ## 📫 Connect with Me  
